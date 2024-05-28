@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Egonnoel012
-- 👀 I’m interested in pranking people
-- 🌱 I’m currently learning tigerpython / html
+- 👋 Hi, I’m Noel
 - 📫 How to reach me: egon20880@gmail.com
 - 😄 Pronouns: he/him
 
